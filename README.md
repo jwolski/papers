@@ -5,6 +5,7 @@
 * Chubby
 * Consistent Hashing
 * CRDTs
+* Dapper
 * Dynamo
 * Epidemic Broadcast Tress
 * Lamport Clocks
