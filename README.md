@@ -14,6 +14,7 @@
 * Raft
 * Scuttlebutt
 * SWIM
+* Thrift
 
 # talks i love
 * [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c)
