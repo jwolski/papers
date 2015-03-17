@@ -3,6 +3,7 @@
 * BGP Route Flap Damping
 * Chord
 * Chubby
+* Consistent Hashing
 * Dynamo
 * Epidemic Broadcast Tress
 * Lamport Clocks
