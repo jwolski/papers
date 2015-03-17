@@ -5,9 +5,11 @@
 * Chubby
 * Dynamo
 * Epidemic Broadcast Tress
+* Lamport Clocks
 * Paxos
 * Phi Accrual Failure Detector
 * Raft
+* Scuttlebutt
 * SWIM
 
 # topics i love
