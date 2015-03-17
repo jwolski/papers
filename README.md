@@ -13,5 +13,6 @@
 * SWIM
 
 # topics i love
-* finagle
-* mux
+* Finagle
+* Leveldb
+* Mux
