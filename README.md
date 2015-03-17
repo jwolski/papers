@@ -1,11 +1,14 @@
 # papers i love
-* Dynamo
-* Chubby
 * Bigtable
-* Epidemic Broadcast Tress
+* BGP Route Flap Damping
 * Chord
-* SWIM
+* Chubby
+* Dynamo
+* Epidemic Broadcast Tress
+* Paxos
 * Phi Accrual Failure Detector
+* Raft
+* SWIM
 
 # topics i love
 * finagle
