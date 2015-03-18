@@ -9,6 +9,7 @@
 * Dynamo
 * Epidemic Broadcast Tress
 * Lamport Clocks
+* Mesos
 * Paxos
 * Phi Accrual Failure Detector
 * Raft
