@@ -10,6 +10,7 @@
 * Epidemic Broadcast Tress
 * Lamport Clocks
 * Mesos
+* Orleans: Distributed Virtual Actors for Programmability and Scalability
 * Paxos
 * Phi Accrual Failure Detector
 * Raft
